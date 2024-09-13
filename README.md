@@ -14,7 +14,6 @@ This project aims to classify Alzheimer's disease progression using MRI images. 
 ### Problem Statement
 The goal of this project is to develop a machine learning model that can differentiate between the stages of dementia based on MRI scans. However, the dataset used in this project is highly imbalanced, with a significant skew towards the **Non Demented** and **Very Mild Dementia** categories, which adversely affected the performance of the model.
 
-### Dataset Imbalance
 The classes in the dataset are:
 - **Non Demented**
 - **Very Mild Dementia**
